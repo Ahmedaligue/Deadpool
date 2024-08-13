@@ -11,12 +11,12 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['212602272422', '👑 Azax - Creador 👑', true],
-  ['201005603546', '💫 Shikamaro - Creador 💫', true]
+  ['212658594530', '👑 SENKU - Creador 👑', true],
+  ['212658594530', '💫 SENKU - Creador 💫', true]
 ];
 
-global.suittag = ['212602272422'];
-global.prems = ['212602272422'];
+global.suittag = ['212658594530'];
+global.prems = ['212658594530'];
 
 global.packname = 'ملصقات';
 global.author = 'DEADPOOL - Bot';
